@@ -77,7 +77,7 @@ void* kobylaWork(void* sdata){
 
 
 
-int main() {
+static int main() {
     fprintf(stderr,"Main zacal\n");
 
     pthread_mutex_t  mutex;
