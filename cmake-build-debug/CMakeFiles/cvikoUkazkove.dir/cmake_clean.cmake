@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cvikoUkazkove.dir/main.c.o"
+  "CMakeFiles/cvikoUkazkove.dir/nefunkcne.c.o"
   "cvikoUkazkove"
   "cvikoUkazkove.pdb"
 )

@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/tmp/tmp.GKCEmRPrb2/main.c" "/tmp/tmp.GKCEmRPrb2/cmake-build-debug/CMakeFiles/cvikoUkazkove.dir/main.c.o"
+  "/tmp/tmp.GKCEmRPrb2/nefunkcne.c" "/tmp/tmp.GKCEmRPrb2/cmake-build-debug/CMakeFiles/cvikoUkazkove.dir/nefunkcne.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

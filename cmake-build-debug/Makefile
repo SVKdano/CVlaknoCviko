@@ -169,6 +169,33 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cvikoUkazkove.dir/build.make CMakeFiles/cvikoUkazkove.dir/main.c.s
 .PHONY : main.c.s
 
+nefunkcne.o: nefunkcne.c.o
+
+.PHONY : nefunkcne.o
+
+# target to build an object file
+nefunkcne.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cvikoUkazkove.dir/build.make CMakeFiles/cvikoUkazkove.dir/nefunkcne.c.o
+.PHONY : nefunkcne.c.o
+
+nefunkcne.i: nefunkcne.c.i
+
+.PHONY : nefunkcne.i
+
+# target to preprocess a source file
+nefunkcne.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cvikoUkazkove.dir/build.make CMakeFiles/cvikoUkazkove.dir/nefunkcne.c.i
+.PHONY : nefunkcne.c.i
+
+nefunkcne.s: nefunkcne.c.s
+
+.PHONY : nefunkcne.s
+
+# target to generate assembly for a file
+nefunkcne.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cvikoUkazkove.dir/build.make CMakeFiles/cvikoUkazkove.dir/nefunkcne.c.s
+.PHONY : nefunkcne.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -181,6 +208,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... nefunkcne.o"
+	@echo "... nefunkcne.i"
+	@echo "... nefunkcne.s"
 .PHONY : help
 
 

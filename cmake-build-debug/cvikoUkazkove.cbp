@@ -79,6 +79,9 @@
 		<Unit filename="/tmp/tmp.GKCEmRPrb2/main.c">
 			<Option target="cvikoUkazkove"/>
 		</Unit>
+		<Unit filename="/tmp/tmp.GKCEmRPrb2/nefunkcne.c">
+			<Option target="cvikoUkazkove"/>
+		</Unit>
 		<Unit filename="/tmp/tmp.GKCEmRPrb2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

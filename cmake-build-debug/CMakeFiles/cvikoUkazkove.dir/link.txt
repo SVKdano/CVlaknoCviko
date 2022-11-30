@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/cvikoUkazkove.dir/main.c.o -o cvikoUkazkove  -lpthread 
+/usr/bin/cc -g CMakeFiles/cvikoUkazkove.dir/main.c.o CMakeFiles/cvikoUkazkove.dir/nefunkcne.c.o -o cvikoUkazkove  -lpthread 

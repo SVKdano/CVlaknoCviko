@@ -93,12 +93,12 @@ clean: CMakeFiles/cvikoUkazkove.dir/clean
 CMakeFiles/cvikoUkazkove.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cvikoUkazkove.dir/build.make CMakeFiles/cvikoUkazkove.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cvikoUkazkove.dir/build.make CMakeFiles/cvikoUkazkove.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/tmp/tmp.GKCEmRPrb2/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target cvikoUkazkove"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/tmp/tmp.GKCEmRPrb2/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target cvikoUkazkove"
 .PHONY : CMakeFiles/cvikoUkazkove.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/cvikoUkazkove.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /tmp/tmp.GKCEmRPrb2/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /tmp/tmp.GKCEmRPrb2/cmake-build-debug/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/cvikoUkazkove.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /tmp/tmp.GKCEmRPrb2/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/cvikoUkazkove.dir/rule
